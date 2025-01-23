@@ -12,4 +12,5 @@ class Solution
             return maxalt;
         }
 };
-//This solution pass all the test cases but not fullfill the user statement requirements
+// This solution pass all the test cases but not fullfill the user statement
+// requirements
