@@ -9,7 +9,7 @@ class Solution
             {
                 currsum += nums[i];
             }
-            double avg, max_avg = currsum / k;
+            double avg, max_avg =  currsum / k;
             for (int i = k; i < n; i++)
             {
                 currsum += nums[i];
